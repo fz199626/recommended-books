@@ -6,6 +6,7 @@
 * JavaScript高级程序设计
 * 高性能JavaScript
 * ES6标准入门
+* JavaScript语言精粹
 
 ## 基础知识
 * 深入理解计算机系统(CSAPP)
