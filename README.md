@@ -23,8 +23,8 @@
 * [计算机系统要素](https://pan.baidu.com/s/151dLoUDgKyW3PLTZ2ZxCkg) (6vtx)
 * 计算机程序的构造和解释(SICP)
 
+## 计算机网络
+* [图解HTTP](https://pan.baidu.com/s/1VNmgydBxuhy7xQESIAHP3A) (46td)
+
 ## NodeJS
 * 深入浅出node.js
-
-## HTTP
-* [图解HTTP](https://pan.baidu.com/s/1VNmgydBxuhy7xQESIAHP3A) (46td)
