@@ -1,4 +1,4 @@
-## 注：看过并且觉得是好书才推荐 书名旁边的括号为下载密码
+## 注：书名旁边的括号为下载密码
 ## 前端
 * [你不知道的JavaScript（上）](https://pan.baidu.com/s/1IcftWhmNQRm3O2JKhecykw ) (arbr)
 * [你不知道的JavaScript（中）](https://pan.baidu.com/s/1abe5SOgLVaZNPQXKOS1VSw) (dwhb)
@@ -25,6 +25,10 @@
 
 ## 计算机网络
 * [图解HTTP](https://pan.baidu.com/s/1VNmgydBxuhy7xQESIAHP3A) (46td)
+* [计算机网络-自顶向下方法](https://pan.baidu.com/s/1wRgRkkbpNqoDcMF4oG70_Q) (stia)
+
+## 软件工程
+* [代码大全2](https://pan.baidu.com/s/1XBuVz6nPROkD5FnbSqi1iQ) (h13w)
 
 ## NodeJS
 * 深入浅出node.js
