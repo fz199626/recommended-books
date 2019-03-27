@@ -29,6 +29,11 @@
 
 ## 软件工程
 * [代码大全2](https://pan.baidu.com/s/1XBuVz6nPROkD5FnbSqi1iQ) (h13w)
+* [重构](https://pan.baidu.com/s/1fxio-zlyLROkunjLVKZqUA) (33ii)
+
+## 数据结构与算法
+* [算法导论](https://pan.baidu.com/s/168GnPzXaTiCHLlg3JEyztg) (j4b4)
+* [算法4](https://pan.baidu.com/s/1FGQeJbi0MeJl4Nkbgrh0-w) (3gek)
 
 ## NodeJS
 * [深入浅出node.js](https://pan.baidu.com/s/1y-SQUGUjvxoFcqzXV-hfNQ) (eced)
