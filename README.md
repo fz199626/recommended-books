@@ -6,7 +6,7 @@
 * [JavaScript高级程序设计](https://pan.baidu.com/s/1hjvR5FJ-1tuV8Tl972iyHQ) (t8x6)
 * [高性能JavaScript](https://pan.baidu.com/s/1VVwbEeLi5ibpd_xH59im8g) (tqn7)
 * [ES6标准入门](http://es6.ruanyifeng.com/)
-* JavaScript语言精粹
+* [JavaScript语言精粹](https://pan.baidu.com/s/1hfVZ5p1fh-Tlzp1k7l9_yw) (er8r)
 
 ## 计算机体系结构
 * [计算机体系结构：量化研究方法](https://pan.baidu.com/s/1MW0htaBzW1a1b2Cx5A2VQg) (9ep1)
@@ -21,7 +21,7 @@
 
 ## 编译原理
 * [计算机系统要素](https://pan.baidu.com/s/151dLoUDgKyW3PLTZ2ZxCkg) (6vtx)
-* 计算机程序的构造和解释(SICP)
+* [计算机程序的构造和解释(SICP)](https://pan.baidu.com/s/1yLUnwD8UcxoYVrCVwrrxOg) (9w4d)
 
 ## 计算机网络
 * [图解HTTP](https://pan.baidu.com/s/1VNmgydBxuhy7xQESIAHP3A) (46td)
@@ -31,4 +31,4 @@
 * [代码大全2](https://pan.baidu.com/s/1XBuVz6nPROkD5FnbSqi1iQ) (h13w)
 
 ## NodeJS
-* 深入浅出node.js
+* [深入浅出node.js](https://pan.baidu.com/s/1y-SQUGUjvxoFcqzXV-hfNQ) (eced)
