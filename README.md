@@ -37,3 +37,6 @@
 
 ## NodeJS
 * [深入浅出node.js](https://pan.baidu.com/s/1y-SQUGUjvxoFcqzXV-hfNQ) (eced)
+
+## C
+* [c程序设计语言](https://pan.baidu.com/s/12CD0PiC6OWs0F89UU3fHMA) (316m)
