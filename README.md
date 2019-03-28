@@ -40,3 +40,6 @@
 
 ## C
 * [c程序设计语言](https://pan.baidu.com/s/12CD0PiC6OWs0F89UU3fHMA) (316m)
+
+## 其他
+* [编码](https://pan.baidu.com/s/1Qo9lIW_-Gfo9JDniCAnA8Q) (qp69)
