@@ -26,7 +26,7 @@
 ## 计算机网络
 * [图解HTTP](https://pan.baidu.com/s/1VNmgydBxuhy7xQESIAHP3A) (46td)
 * [计算机网络-自顶向下方法](https://pan.baidu.com/s/1wRgRkkbpNqoDcMF4oG70_Q) (stia)
-* [TCP/IP 详解](https://pan.baidu.com/s/19-BgfQCKI2msWeEqrBEZCQ) (au7i)
+* [TCP/IP 详解（1、2、 3卷）](https://pan.baidu.com/s/19-BgfQCKI2msWeEqrBEZCQ) (au7i)
 
 ## 软件工程
 * [代码大全2](https://pan.baidu.com/s/1XBuVz6nPROkD5FnbSqi1iQ) (h13w)
