@@ -26,6 +26,7 @@
 ## 计算机网络
 * [图解HTTP](https://pan.baidu.com/s/1VNmgydBxuhy7xQESIAHP3A) (46td)
 * [计算机网络-自顶向下方法](https://pan.baidu.com/s/1wRgRkkbpNqoDcMF4oG70_Q) (stia)
+* [TCP/IP 详解](https://pan.baidu.com/s/19-BgfQCKI2msWeEqrBEZCQ) (au7i)
 
 ## 软件工程
 * [代码大全2](https://pan.baidu.com/s/1XBuVz6nPROkD5FnbSqi1iQ) (h13w)
@@ -34,12 +35,18 @@
 ## 数据结构与算法
 * [算法导论](https://pan.baidu.com/s/168GnPzXaTiCHLlg3JEyztg) (j4b4)
 * [算法4](https://pan.baidu.com/s/1FGQeJbi0MeJl4Nkbgrh0-w) (3gek)
+* [计算机程序设计艺术（第一卷）](https://pan.baidu.com/s/1bqaYcD3UH4GdsFlNTa0fHQ) (epf2)
+* [计算机程序设计艺术（第二卷）](https://pan.baidu.com/s/173pFW3qO4DfR2kJm0bRvfA) (9y3z)
+* [计算机程序设计艺术（第三卷）](https://pan.baidu.com/s/1xWOIKorMomJz7ivg_teQEQ) (i3ai)
 
 ## NodeJS
 * [深入浅出node.js](https://pan.baidu.com/s/1y-SQUGUjvxoFcqzXV-hfNQ) (eced)
 
 ## C
-* [c程序设计语言](https://pan.baidu.com/s/12CD0PiC6OWs0F89UU3fHMA) (316m)
+* [C程序设计语言](https://pan.baidu.com/s/12CD0PiC6OWs0F89UU3fHMA) (316m)
+
+## C++
+* [C++ Primer（第五版）](https://pan.baidu.com/s/1CYXBdNwTBpMJVL6nk0Xlsg) (xs6p)
 
 ## 其他
 * [编码](https://pan.baidu.com/s/1Qo9lIW_-Gfo9JDniCAnA8Q) (qp69)
