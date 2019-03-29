@@ -7,6 +7,8 @@
 * [高性能JavaScript](https://pan.baidu.com/s/1VVwbEeLi5ibpd_xH59im8g) (tqn7)
 * [ES6标准入门](http://es6.ruanyifeng.com/)
 * [JavaScript语言精粹](https://pan.baidu.com/s/1hfVZ5p1fh-Tlzp1k7l9_yw) (er8r)
+* [CSS世界](https://pan.baidu.com/s/1st_JJD3OMbjZj7jZkk0Tbw) (jtg2)
+* [CSS揭秘](https://pan.baidu.com/s/1VPmGbrT_PNGP9wjWetXr-Q) (gb5j)
 
 ## 计算机体系结构
 * [计算机体系结构：量化研究方法（第五版）](https://pan.baidu.com/s/1MW0htaBzW1a1b2Cx5A2VQg) (9ep1)
@@ -22,6 +24,10 @@
 ## 编译原理
 * [计算机系统要素](https://pan.baidu.com/s/151dLoUDgKyW3PLTZ2ZxCkg) (6vtx)
 * [计算机程序的构造和解释(SICP)](https://pan.baidu.com/s/1yLUnwD8UcxoYVrCVwrrxOg) (9w4d)
+* [计算的本质：深入剖析程序和计算机](https://pan.baidu.com/s/1lrwAQySgcHD8xQMcdopO7A) (qtj9)
+* [编译原理及实践](https://pan.baidu.com/s/1w4SwKxxKFQjVJZJD2yJs2w) (7rgc)
+* [编译原理](https://pan.baidu.com/s/1GcjNUALGxh-_6r37Krib1w) (52ve)
+* [编译器设计](https://pan.baidu.com/s/1Rr3j75nh726VvlHfGDRMnA) (jnmr)
 
 ## 计算机网络
 * [图解HTTP](https://pan.baidu.com/s/1VNmgydBxuhy7xQESIAHP3A) (46td)
@@ -48,3 +54,4 @@
 
 ## 其他
 * [编码](https://pan.baidu.com/s/1Qo9lIW_-Gfo9JDniCAnA8Q) (qp69)
+* [黑客与画家](https://pan.baidu.com/s/1VyvhU9_og_-gf4jVizyZyQ) (ac1e)
