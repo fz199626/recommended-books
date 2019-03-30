@@ -55,3 +55,4 @@
 ## 其他
 * [编码](https://pan.baidu.com/s/1Qo9lIW_-Gfo9JDniCAnA8Q) (qp69)
 * [黑客与画家](https://pan.baidu.com/s/1VyvhU9_og_-gf4jVizyZyQ) (ac1e)
+* [人月神话](https://pan.baidu.com/s/1PuDzVePanlO4hwfyHQ-tVQ) (ujg2)
