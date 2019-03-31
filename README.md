@@ -51,6 +51,7 @@
 * [C程序设计语言（第二版）](https://pan.baidu.com/s/12CD0PiC6OWs0F89UU3fHMA) (316m)
 * [C++ Primer（第五版）](https://pan.baidu.com/s/1CYXBdNwTBpMJVL6nk0Xlsg) (xs6p)
 * [汇编语言（第三版）](https://pan.baidu.com/s/1ADiZUzgJeW1T4FQrzBLbWA) (ipg6)
+* [流畅的python](https://pan.baidu.com/s/1rq-jwyPOibso8auDC5q9FQ) (rde7)
 
 ## 其他
 * [编码](https://pan.baidu.com/s/1Qo9lIW_-Gfo9JDniCAnA8Q) (qp69)
