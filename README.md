@@ -37,6 +37,7 @@
 ## 软件工程
 * [代码大全2](https://pan.baidu.com/s/1XBuVz6nPROkD5FnbSqi1iQ) (h13w)
 * [重构](https://pan.baidu.com/s/1fxio-zlyLROkunjLVKZqUA) (33ii)
+* [代码整洁之道：程序员的职业素养](https://pan.baidu.com/s/1YAWtux7RsJh-7P3TW5j1Gw) (gjui)
 
 ## 数据结构与算法
 * [算法导论](https://pan.baidu.com/s/168GnPzXaTiCHLlg3JEyztg) (j4b4)
