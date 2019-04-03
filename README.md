@@ -1,4 +1,5 @@
-## 注：书名旁边的括号为下载密码 持续更新 欢迎关注
+# 计算机经典书籍推荐
+书名旁边的括号为下载密码 持续更新 欢迎关注
 ## 前端
 * [你不知道的JavaScript（上）](https://pan.baidu.com/s/1IcftWhmNQRm3O2JKhecykw ) (arbr)
 * [你不知道的JavaScript（中）](https://pan.baidu.com/s/1abe5SOgLVaZNPQXKOS1VSw) (dwhb)
