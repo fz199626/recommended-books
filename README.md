@@ -48,6 +48,9 @@
 * [计算机程序设计艺术（第三卷）](https://pan.baidu.com/s/1xWOIKorMomJz7ivg_teQEQ) (i3ai)
 * [编程珠玑（第二版）](https://pan.baidu.com/s/19h3USRJH44Wm_VbVmO2DlQ) (n2dq)
 
+## Linux/Unix
+* [UNIX 环境高级编程（第三版）](https://pan.baidu.com/s/16u6OSCVZiPQWZkMvG28W8Q) (thu9)
+
 ## 编程语言
 ### Node
 * [深入浅出node.js](https://pan.baidu.com/s/1y-SQUGUjvxoFcqzXV-hfNQ) (eced)
