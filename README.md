@@ -1,5 +1,8 @@
 # 计算机经典书籍推荐
 书名旁边的括号为下载密码 持续更新 欢迎关注
+
+动手做是1 看书是往1后面添0 理论与实践结合才是王道 如果不动手 看再多的书 没有那个1 都是0
+
 ## 前端
 * [你不知道的JavaScript（上）](https://pan.baidu.com/s/1IcftWhmNQRm3O2JKhecykw ) (arbr)
 * [你不知道的JavaScript（中）](https://pan.baidu.com/s/1abe5SOgLVaZNPQXKOS1VSw) (dwhb)
