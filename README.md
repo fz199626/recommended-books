@@ -76,3 +76,8 @@
 * [黑客与画家](https://pan.baidu.com/s/1VyvhU9_og_-gf4jVizyZyQ) (ac1e)
 * [人月神话](https://pan.baidu.com/s/1PuDzVePanlO4hwfyHQ-tVQ) (ujg2)
 * [七周七语言：理解多种编程范型 ](https://pan.baidu.com/s/1EPZw9Gmlzx0R9IYa10kkpA) (nw7w)
+
+
+## 大学计算机专业学习路线图
+[网易云课堂大学计算机专业](https://study.163.com/curricula/cs.htm)
+![img](https://github.com/woai3c/recommended-books/blob/master/Computer%20Science.png)
