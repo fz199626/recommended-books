@@ -48,6 +48,11 @@
 * [计算机程序设计艺术（第三卷）](https://pan.baidu.com/s/1xWOIKorMomJz7ivg_teQEQ) (i3ai)
 * [编程珠玑（第二版）](https://pan.baidu.com/s/19h3USRJH44Wm_VbVmO2DlQ) (n2dq)
 
+## 设计模式
+* [JavaScript设计模式与开发实践](https://pan.baidu.com/s/13NXYlCsr4RR1CScmOYX3Zw) (m9gv)
+* [设计模式：可复用面向对象软件的基础](https://pan.baidu.com/s/1dokNRJR6YAMKjVDn_2fHXQ) (222c)
+* [Head First设计模式](https://pan.baidu.com/s/177gYpz1FZosXwvVSvJDHvw) (qtup)
+
 ## Linux/Unix
 * [UNIX 环境高级编程（第三版）](https://pan.baidu.com/s/16u6OSCVZiPQWZkMvG28W8Q) (thu9)
 
@@ -63,8 +68,11 @@
 ### Python
 * [python编程从入门到实践](https://pan.baidu.com/s/1AQAvdxzYAS1OFv8_aYEruQ) (jcji)
 * [流畅的python](https://pan.baidu.com/s/1rq-jwyPOibso8auDC5q9FQ) (rde7)
+### Java
+* [Java编程思想（第四版）](https://pan.baidu.com/s/1RXDTTWvomqpR2B2n5plHHw) (sv26)
 
 ## 其他
 * [编码](https://pan.baidu.com/s/1Qo9lIW_-Gfo9JDniCAnA8Q) (qp69)
 * [黑客与画家](https://pan.baidu.com/s/1VyvhU9_og_-gf4jVizyZyQ) (ac1e)
 * [人月神话](https://pan.baidu.com/s/1PuDzVePanlO4hwfyHQ-tVQ) (ujg2)
+* [七周七语言：理解多种编程范型 ](https://pan.baidu.com/s/1EPZw9Gmlzx0R9IYa10kkpA) (nw7w)
