@@ -71,6 +71,8 @@
 
 ## Linux/Unix
 * [UNIX 环境高级编程（第三版）](https://pan.baidu.com/s/16u6OSCVZiPQWZkMvG28W8Q) (thu9)
+* [Linux-UNIX系统编程手册 上](https://pan.baidu.com/s/18GsxIkIhGF9D70o_HCrhyg) (9psz)
+* [Linux-UNIX系统编程手册 下](https://pan.baidu.com/s/1Gtir-zL0eJEQAAvPkeggqg) (9pgw)
 
 ## 编程语言
 #### Node
