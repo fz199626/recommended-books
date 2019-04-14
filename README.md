@@ -13,6 +13,7 @@
 * [数据结构与算法](#数据结构与算法)
 * [设计模式](#设计模式)
 * [Linux/Unix](#LinuxUnix)
+* [数据库](#数据库)
 * [编程语言](#编程语言)
 * [其他](#其他)
 
@@ -73,6 +74,9 @@
 * [UNIX 环境高级编程（第三版）](https://pan.baidu.com/s/16u6OSCVZiPQWZkMvG28W8Q) (thu9)
 * [Linux-UNIX系统编程手册 上](https://pan.baidu.com/s/18GsxIkIhGF9D70o_HCrhyg) (9psz)
 * [Linux-UNIX系统编程手册 下](https://pan.baidu.com/s/1Gtir-zL0eJEQAAvPkeggqg) (9pgw)
+
+## 数据库
+* [MySQL必知必会](https://pan.baidu.com/s/18JYueApVJ9RguOsrmI-wRA) (fybs)
 
 ## 编程语言
 #### Node
