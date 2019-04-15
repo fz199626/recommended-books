@@ -25,7 +25,6 @@
 * [高性能JavaScript](https://pan.baidu.com/s/1VVwbEeLi5ibpd_xH59im8g) (tqn7)
 * [ES6标准入门](http://es6.ruanyifeng.com/)
 * [JavaScript语言精粹](https://pan.baidu.com/s/1hfVZ5p1fh-Tlzp1k7l9_yw) (er8r)
-* [CSS世界](https://pan.baidu.com/s/1st_JJD3OMbjZj7jZkk0Tbw) (jtg2)
 * [CSS揭秘](https://pan.baidu.com/s/1VPmGbrT_PNGP9wjWetXr-Q) (gb5j)
 
 ## 计算机体系结构
