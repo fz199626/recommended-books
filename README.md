@@ -38,6 +38,7 @@
 * [现代操作系统（第四版）](https://pan.baidu.com/s/1koTyEu8RQbzGTPGsP2UOsg) (kpqq)
 * [操作系统真象还原](https://pan.baidu.com/s/12JTNP6rnVgniAGLGTtcpNQ) (zjfg)
 * [操作系统真象还原-附书代码](https://pan.baidu.com/s/1nNFicFXPTBFFavxg-gAgmQ) (fgi8)
+* [orange’s：一个操作系统的实现](https://pan.baidu.com/s/1GSEOnRZwgktL75BCxSavzg) (9fu4)
 
 ## 计算机组成原理
 * [计算机组成与设计（第五版）](https://pan.baidu.com/s/1C6Qc5dvIPS1ku5Xk045rBg) (qapc)
