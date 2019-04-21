@@ -70,6 +70,7 @@
 * [计算机程序设计艺术（第三卷）](https://pan.baidu.com/s/1xWOIKorMomJz7ivg_teQEQ) (i3ai)
 * [编程珠玑（第二版）](https://pan.baidu.com/s/19h3USRJH44Wm_VbVmO2DlQ) (n2dq)
 * [算法图解](https://pan.baidu.com/s/1aV938BT_WcjbghQHOuLoMw) (3znk)
+* [数据结构与算法分析：C语言描述](https://pan.baidu.com/s/1n_svUD08lhPlrtOBXA94zA) (1fix)
 
 ## 设计模式
 * [JavaScript设计模式与开发实践](https://pan.baidu.com/s/13NXYlCsr4RR1CScmOYX3Zw) (m9gv)
