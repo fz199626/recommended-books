@@ -106,6 +106,7 @@
 * [人月神话](https://pan.baidu.com/s/1PuDzVePanlO4hwfyHQ-tVQ) (ujg2)
 * [七周七语言：理解多种编程范型 ](https://pan.baidu.com/s/1EPZw9Gmlzx0R9IYa10kkpA) (nw7w)
 * [码农翻身](https://pan.baidu.com/s/12Kv8urIBLMQWcGC2SZyAWw) (w4te)
+* [程序员的自我修养-装载、链接与库](https://pan.baidu.com/s/1hdP_FBDFj5VkWfgW-a3Ouw) (ig27)
 
 ## 大学计算机专业学习路线图
 
