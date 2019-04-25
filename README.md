@@ -25,6 +25,7 @@
 * [高性能JavaScript](https://pan.baidu.com/s/1VVwbEeLi5ibpd_xH59im8g) (tqn7)
 * [ES6标准入门](http://es6.ruanyifeng.com/)
 * [JavaScript语言精粹](https://pan.baidu.com/s/1hfVZ5p1fh-Tlzp1k7l9_yw) (er8r)
+* [JavaScript DOM编程艺术 第2版](https://pan.baidu.com/s/1oUvE2rpuZMR87_odtnw7tQ) (utip)
 * [CSS揭秘](https://pan.baidu.com/s/1VPmGbrT_PNGP9wjWetXr-Q) (gb5j)
 * [HTML&CSS设计与构建网站](https://pan.baidu.com/s/1mgK8IaP-TVWiXEIjzjX6Yw) (unxc)
 * [Head First HTML与CSS 第2版](https://pan.baidu.com/s/1iFiXM-7k0DGjqEOli-O5cw) (mmwp)
@@ -88,15 +89,23 @@
 ## 编程语言
 #### Node
 * [深入浅出node.js](https://pan.baidu.com/s/1y-SQUGUjvxoFcqzXV-hfNQ) (eced)
+
 #### C
 * [C程序设计语言（第二版）](https://pan.baidu.com/s/12CD0PiC6OWs0F89UU3fHMA) (316m)
+
 #### C++
 * [C++ Primer（第五版）](https://pan.baidu.com/s/1CYXBdNwTBpMJVL6nk0Xlsg) (xs6p)
+
 #### 汇编
 * [汇编语言（第三版）](https://pan.baidu.com/s/1ADiZUzgJeW1T4FQrzBLbWA) (ipg6)
+
 #### Python
 * [python编程从入门到实践](https://pan.baidu.com/s/1AQAvdxzYAS1OFv8_aYEruQ) (jcji)
 * [流畅的python](https://pan.baidu.com/s/1rq-jwyPOibso8auDC5q9FQ) (rde7)
+* [Python编程快速上手  让繁琐工作自动化](https://pan.baidu.com/s/1F0Rcs-E87alKM9G66z2c2Q) (nqgm)
+* [Python深度学习](https://pan.baidu.com/s/1tE33l1UzxnToOumA6GYSVw) (yw3t)
+* [Python深度学习-源代码](https://pan.baidu.com/s/1xIsNIf7VuK0gQ9xiDCWkrg) (rq4m)
+
 #### Java
 * [Java编程思想（第四版）](https://pan.baidu.com/s/1RXDTTWvomqpR2B2n5plHHw) (sv26)
 
