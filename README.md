@@ -82,6 +82,9 @@
 * [UNIX 环境高级编程（第三版）](https://pan.baidu.com/s/16u6OSCVZiPQWZkMvG28W8Q) (thu9)
 * [Linux-UNIX系统编程手册 上](https://pan.baidu.com/s/18GsxIkIhGF9D70o_HCrhyg) (9psz)
 * [Linux-UNIX系统编程手册 下](https://pan.baidu.com/s/1Gtir-zL0eJEQAAvPkeggqg) (9pgw)
+* [鸟哥的Linux私房菜基础学习篇第四版v2.0](https://pan.baidu.com/s/102hTHFjqzTapWAGLiYa3mg) (pt8p)
+* [深入Linux内核架构](https://pan.baidu.com/s/1JsWIQh6EZ7qRzRhyazpIrw) (ncku)
+* [深入理解linux内核（中文第三版）](https://pan.baidu.com/s/1Md6JUACT3nGQQI7yjKtedA) (d5ai)
 
 ## 数据库
 * [MySQL必知必会](https://pan.baidu.com/s/18JYueApVJ9RguOsrmI-wRA) (fybs)
