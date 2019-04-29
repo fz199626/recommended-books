@@ -41,6 +41,9 @@
 * [操作系统真象还原-附书源码](https://pan.baidu.com/s/1nNFicFXPTBFFavxg-gAgmQ) (fgi8)
 * [orange’s：一个操作系统的实现](https://pan.baidu.com/s/1GSEOnRZwgktL75BCxSavzg) (9fu4)
 * [orange’s：一个操作系统的实现-附书源码](https://pan.baidu.com/s/1lbTL3mj-xS2fM9G9iX2vNQ) (87je)
+* [30天自制操作系统](https://pan.baidu.com/s/1Qy9dkIw_Co-o9qk9_1aGpg) (5vgd)
+* [30天自制操作系统-源码](https://pan.baidu.com/s/1G5Dw0REwllGLVg8W8ZtdNg) (um8b)
+* [30天自制操作系统-中文源码-网友翻译](https://github.com/yourtion/30dayMakeOS)
 
 ## 计算机组成原理
 * [计算机组成与设计（第五版）](https://pan.baidu.com/s/1C6Qc5dvIPS1ku5Xk045rBg) (qapc)
