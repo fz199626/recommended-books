@@ -43,7 +43,6 @@
 * [orange’s：一个操作系统的实现-附书源码](https://pan.baidu.com/s/1lbTL3mj-xS2fM9G9iX2vNQ) (87je)
 * [30天自制操作系统](https://pan.baidu.com/s/1Qy9dkIw_Co-o9qk9_1aGpg) (5vgd)
 * [30天自制操作系统-源码](https://pan.baidu.com/s/1G5Dw0REwllGLVg8W8ZtdNg) (um8b)
-* [30天自制操作系统-中文源码-网友翻译](https://github.com/yourtion/30dayMakeOS)
 * [深入解析Windows操作系统 第6版 上册](https://pan.baidu.com/s/1hCPx4A88GfLEJ5FJ8iGavg) (z7h6)
 * [操作系统设计与实现(第三版上册)](https://pan.baidu.com/s/1u2tk7NvnnDyIdrSpUcIkrw) (rk8a)
 * [操作系统设计与实现(第三版下册)](https://pan.baidu.com/s/19jnrNAKb5tmiOSwQggo2zA) (bezb)
