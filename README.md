@@ -45,8 +45,8 @@
 * [30天自制操作系统-源码](https://pan.baidu.com/s/1G5Dw0REwllGLVg8W8ZtdNg) (um8b)
 * [30天自制操作系统-中文源码-网友翻译](https://github.com/yourtion/30dayMakeOS)
 * [深入解析Windows操作系统 第6版 上册](https://pan.baidu.com/s/1hCPx4A88GfLEJ5FJ8iGavg) (z7h6)
-* []() ()
-* []() ()
+* [操作系统设计与实现(第三版上册)](https://pan.baidu.com/s/1u2tk7NvnnDyIdrSpUcIkrw) (rk8a)
+* [操作系统设计与实现(第三版下册)]() ()
 
 ## 计算机组成原理
 * [计算机组成与设计（第五版）](https://pan.baidu.com/s/1C6Qc5dvIPS1ku5Xk045rBg) (qapc)
