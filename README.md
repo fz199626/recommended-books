@@ -91,6 +91,8 @@
 * [深入Linux内核架构](https://pan.baidu.com/s/1JsWIQh6EZ7qRzRhyazpIrw) (ncku)
 * [深入理解linux内核（中文第三版）](https://pan.baidu.com/s/1Md6JUACT3nGQQI7yjKtedA) (d5ai)
 * [UNIX编程艺术](https://pan.baidu.com/s/12yHW3xjdHPHkD3f_VDfjWQ) (a7sx)
+* [Linux多线程服务端编程：使用muduo C++网络库](https://pan.baidu.com/s/1IAp98qQ1MU_Uif75rGU71Q) (2jcs)
+* [Linux内核设计与实现(第三版)](https://pan.baidu.com/s/1Nqe5nzZQNQOeFmraWUq-lw) (nj72)
 
 ## 数据库
 * [MySQL必知必会](https://pan.baidu.com/s/18JYueApVJ9RguOsrmI-wRA) (fybs)
