@@ -93,6 +93,10 @@
 * [UNIX编程艺术](https://pan.baidu.com/s/12yHW3xjdHPHkD3f_VDfjWQ) (a7sx)
 * [Linux多线程服务端编程：使用muduo C++网络库](https://pan.baidu.com/s/1r1SnebfIY4iPDf4LQfOKqw) (qbdv)
 * [Linux内核设计与实现(第三版)](https://pan.baidu.com/s/1Nqe5nzZQNQOeFmraWUq-lw) (nj72)
+* [UNIXLinux系统管理技术手册 第4版](https://pan.baidu.com/s/12ePQkqsfHPcp6zV7QjTcWg) (ieu7)
+* [Unix-Linux编程实践教程](https://pan.baidu.com/s/1fWMs1NsiYq9AFGCnlthGrA) (4njn)
+* [UNIX网络编程卷1：套接字联网API（第3版）](https://pan.baidu.com/s/1aQ9x59hBDdgwPu6hO301pA) (r9n2)
+* [UNIX网络编程卷2：进程间通信（第2版）](https://pan.baidu.com/s/1oaP-L2BC-5FYsjZJvsmXNQ) (v5wm)
 
 ## 数据库
 * [MySQL必知必会](https://pan.baidu.com/s/18JYueApVJ9RguOsrmI-wRA) (fybs)
