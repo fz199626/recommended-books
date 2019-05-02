@@ -30,6 +30,7 @@
 * [HTML&CSS设计与构建网站](https://pan.baidu.com/s/1mgK8IaP-TVWiXEIjzjX6Yw) (unxc)
 * [Head First HTML与CSS 第2版](https://pan.baidu.com/s/1iFiXM-7k0DGjqEOli-O5cw) (mmwp)
 * [高性能网站建设指南](https://pan.baidu.com/s/1fPeSWTs8DnMbeNkjk24UMA) (nc4m)
+* [高性能网站建设进阶指南](https://pan.baidu.com/s/1TrcqzMtdAmynIrZAyz-84Q) (ejd4)
 
 ## 计算机体系结构
 * [计算机体系结构：量化研究方法（第五版）](https://pan.baidu.com/s/1MW0htaBzW1a1b2Cx5A2VQg) (9ep1)
