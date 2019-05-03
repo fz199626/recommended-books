@@ -103,6 +103,7 @@
 
 ## 数据库
 * [MySQL必知必会](https://pan.baidu.com/s/18JYueApVJ9RguOsrmI-wRA) (fybs)
+* [SQL必知必会（第4版）](https://pan.baidu.com/s/1pxcrgwJR0guoS1tQ9oERSA) (4s67)
 
 ## 编程语言
 #### Node
