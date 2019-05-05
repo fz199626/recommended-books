@@ -105,6 +105,7 @@
 * [MySQL必知必会](https://pan.baidu.com/s/18JYueApVJ9RguOsrmI-wRA) (fybs)
 * [SQL必知必会（第4版）](https://pan.baidu.com/s/1pxcrgwJR0guoS1tQ9oERSA) (4s67)
 * [SQL进阶教程](https://pan.baidu.com/s/1ecfKs5YBDu67V50dFn6h1w) (rp2h)
+* [数据库系统概念（原书第六版）](https://pan.baidu.com/s/1NLgxt5cDv-rLkP_wIF8cCg) (n4cs)
 
 ## 编程语言
 #### Node
