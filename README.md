@@ -106,6 +106,8 @@
 * [SQL必知必会（第4版）](https://pan.baidu.com/s/1pxcrgwJR0guoS1tQ9oERSA) (4s67)
 * [SQL进阶教程](https://pan.baidu.com/s/1ecfKs5YBDu67V50dFn6h1w) (rp2h)
 * [数据库系统概念（原书第六版）](https://pan.baidu.com/s/1NLgxt5cDv-rLkP_wIF8cCg) (n4cs)
+* [数据库系统基础教程(原书第3版)](https://pan.baidu.com/s/1iuYHJnh5jA8LJTO0cUQ-0w) (s6ps)
+* [数据库系统实现(第二版)](https://pan.baidu.com/s/1Y0rjpPciol1MoBAcajESHg) (g4b6)
 
 ## 编程语言
 #### Node
