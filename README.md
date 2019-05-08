@@ -108,6 +108,9 @@
 * [数据库系统概念（原书第六版）](https://pan.baidu.com/s/1NLgxt5cDv-rLkP_wIF8cCg) (n4cs)
 * [数据库系统基础教程(原书第3版)](https://pan.baidu.com/s/1iuYHJnh5jA8LJTO0cUQ-0w) (s6ps)
 * [数据库系统实现(第二版)](https://pan.baidu.com/s/1Y0rjpPciol1MoBAcajESHg) (g4b6)
+* [数据库索引设计与优化](https://pan.baidu.com/s/1jLti6yio-tp6y2QNa8gTxA) (68e8)
+* [《Oracle Database 9i 10g 11g编程艺术 深入数据库体系结构 第2版》.(图书作者).[PDF]@ckook](https://pan.baidu.com/s/1KbiFeoqG4zPoGZMqgAfofA) (m2u2)
+
 
 ## 编程语言
 #### Node
