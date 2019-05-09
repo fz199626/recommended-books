@@ -138,6 +138,7 @@
 * [effective-java中文版](https://pan.baidu.com/s/10VwjSYaBOldKyVxCNjiEzg) (gapm)
 * [JAVA并发编程实践](https://pan.baidu.com/s/17oK9OOZiirTcmM-Wag6eoQ) (qnts) 注意：与下书不同
 * [Java并发编程实战](https://pan.baidu.com/s/1GGLw1vsaJZxj8x_4iO6XYA) (7q79)
+* [Java8实战](https://pan.baidu.com/s/1sDLmfGDvN34fb7baspO3UQ) (55wm)
 
 ## 其他
 * [编码](https://pan.baidu.com/s/1Qo9lIW_-Gfo9JDniCAnA8Q) (qp69)
