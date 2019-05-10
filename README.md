@@ -126,11 +126,12 @@
 * [汇编语言（第三版）](https://pan.baidu.com/s/1ADiZUzgJeW1T4FQrzBLbWA) (ipg6)
 
 #### Python
-* [python编程从入门到实践](https://pan.baidu.com/s/1AQAvdxzYAS1OFv8_aYEruQ) (jcji)
+* [python编程:从入门到实践](https://pan.baidu.com/s/1AQAvdxzYAS1OFv8_aYEruQ) (jcji)
 * [流畅的python](https://pan.baidu.com/s/1rq-jwyPOibso8auDC5q9FQ) (rde7)
 * [Python编程快速上手:让繁琐工作自动化](https://pan.baidu.com/s/1F0Rcs-E87alKM9G66z2c2Q) (nqgm)
 * [Python深度学习](https://pan.baidu.com/s/1tE33l1UzxnToOumA6GYSVw) (yw3t)
 * [Python深度学习-源代码](https://pan.baidu.com/s/1xIsNIf7VuK0gQ9xiDCWkrg) (rq4m)
+* [Effective+Python.编写高质量Python代码的59个有效方法.Brett+Slatkin](https://pan.baidu.com/s/1R3qdEEAcjJ_yxMQNvXBeAA) (6155)
 
 #### Java
 * [Java编程思想（第四版）](https://pan.baidu.com/s/1RXDTTWvomqpR2B2n5plHHw) (sv26)
