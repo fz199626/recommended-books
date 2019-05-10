@@ -131,7 +131,7 @@
 * [Python编程快速上手:让繁琐工作自动化](https://pan.baidu.com/s/1F0Rcs-E87alKM9G66z2c2Q) (nqgm)
 * [Python深度学习](https://pan.baidu.com/s/1tE33l1UzxnToOumA6GYSVw) (yw3t)
 * [Python深度学习-源代码](https://pan.baidu.com/s/1xIsNIf7VuK0gQ9xiDCWkrg) (rq4m)
-* [Effective+Python.编写高质量Python代码的59个有效方法.Brett+Slatkin](https://pan.baidu.com/s/1R3qdEEAcjJ_yxMQNvXBeAA) (6155)
+* [Effective+Python:编写高质量Python代码的59个有效方法](https://pan.baidu.com/s/1R3qdEEAcjJ_yxMQNvXBeAA) (6155)
 
 #### Java
 * [Java编程思想（第四版）](https://pan.baidu.com/s/1RXDTTWvomqpR2B2n5plHHw) (sv26)
