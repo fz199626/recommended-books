@@ -124,6 +124,7 @@
 
 #### 汇编
 * [汇编语言（第三版）](https://pan.baidu.com/s/1ADiZUzgJeW1T4FQrzBLbWA) (ipg6)
+* [x86汇编语言:从实模式到保护模式完整版](https://pan.baidu.com/s/1-qBn-oiJac0ljzWOK1S0ew) (jsy3)
 
 #### Python
 * [python编程:从入门到实践](https://pan.baidu.com/s/1AQAvdxzYAS1OFv8_aYEruQ) (jcji)
