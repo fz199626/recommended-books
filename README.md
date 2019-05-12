@@ -121,6 +121,7 @@
 
 #### C++
 * [C++ Primer（第五版）](https://pan.baidu.com/s/1CYXBdNwTBpMJVL6nk0Xlsg) (xs6p)
+* [Effective:C++中文版第三版](https://pan.baidu.com/s/1yFptIDJ4rrUcM1adPz-GkA) (f1me)
 
 #### 汇编
 * [汇编语言（第三版）](https://pan.baidu.com/s/1ADiZUzgJeW1T4FQrzBLbWA) (ipg6)
