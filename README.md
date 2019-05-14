@@ -118,6 +118,7 @@
 
 #### C
 * [C程序设计语言（第二版）](https://pan.baidu.com/s/12CD0PiC6OWs0F89UU3fHMA) (316m)
+* [C Primer Plus 第六版 [带书签]](https://pan.baidu.com/s/10ZaTB44Z8fXLLhbanavQPA) (c1cc)
 
 #### C++
 * [C++ Primer（第五版）](https://pan.baidu.com/s/1CYXBdNwTBpMJVL6nk0Xlsg) (xs6p)
