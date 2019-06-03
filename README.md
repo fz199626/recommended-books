@@ -24,7 +24,7 @@
 * 你不知道的JavaScript（下）
 * JavaScript高级程序设计（第三版）
 * 高性能JavaScript
-* ES6标准入门](http://es6.ruanyifeng.com/)
+* [ES6标准入门](http://es6.ruanyifeng.com/)
 * JavaScript语言精粹
 * JavaScript DOM编程艺术 第2版
 * CSS揭秘
