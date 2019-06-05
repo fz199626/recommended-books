@@ -19,19 +19,19 @@
 * [其他](#其他)
 
 ## 前端
-* 你不知道的JavaScript（上）
-* 你不知道的JavaScript（中）
-* 你不知道的JavaScript（下）
-* JavaScript高级程序设计（第三版）
-* 高性能JavaScript
+* [你不知道的JavaScript（上）](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%8A%E5%8D%B7%EF%BC%89.pdf)
+* [你不知道的JavaScript（中）](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%AD%E5%8D%B7%EF%BC%89.pdf)
+* [你不知道的JavaScript（下）](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%20JavaScript%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf)
+* [JavaScript高级程序设计（第三版）](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
+* [高性能JavaScript](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript.pdf)
 * [ES6标准入门](http://es6.ruanyifeng.com/)
-* JavaScript语言精粹
+* [JavaScript语言精粹](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/JavaScript%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9%2B%2B%E4%BF%AE%E8%AE%A2%E7%89%88.pdf)
 * JavaScript DOM编程艺术 第2版
-* CSS揭秘
-* HTML&CSS设计与构建网站
+* [CSS揭秘](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/css%E6%8F%AD%E7%A7%98.pdf)
+* [HTML&CSS设计与构建网站](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/HTML%26CSS%E8%AE%BE%E8%AE%A1%E4%B8%8E%E6%9E%84%E5%BB%BA%E7%BD%91%E7%AB%99.pdf)
 * Head First HTML与CSS 第2版
-* 高性能网站建设指南
-* 高性能网站建设进阶指南
+* [高性能网站建设指南](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%8D%97.pdf)
+* [高性能网站建设进阶指南](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97.pdf)
 
 ## 计算机体系结构
 * 计算机体系结构：量化研究方法（第五版）
