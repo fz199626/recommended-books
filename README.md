@@ -34,18 +34,21 @@
 * [高性能网站建设进阶指南](https://github.com/woai3c/recommended-books/blob/master/%E5%89%8D%E7%AB%AF/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97.pdf)
 
 ## 计算机体系结构
-* 计算机体系结构：量化研究方法（第五版）
+* [计算机体系结构：量化研究方法（第五版）](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%EF%BC%9A%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC%E4%BA%94%E7%89%88%EF%BC%89.pdf)
 
 ## 操作系统
 * 深入理解计算机系统（第三版）
 * 操作系统精髓与设计原理（第八版）
 * 现代操作系统（第四版）
-* 操作系统真象还原
+* [操作系统真象还原](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9C%9F%E8%B1%A1%E8%BF%98%E5%8E%9F.pdf)
+* [操作系统真象还原-源码](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9C%9F%E8%B1%A1%E8%BF%98%E5%8E%9F-%E9%99%84%E4%B9%A6%E4%BB%A3%E7%A0%81.tgz)
 * orange’s：一个操作系统的实现
-* 30天自制操作系统
+* [30天自制操作系统](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/30%E5%A4%A9%E8%87%AA%E5%88%B6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)
+* [30天自制操作系统-源码](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/30dayMakeOS-master.zip)
 * 深入解析Windows操作系统 第6版 上册
-* 操作系统设计与实现(第三版上册)
-* 操作系统设计与实现(第三版下册)
+* [操作系统设计与实现(第三版上册)](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%8A%E5%86%8C).pdf)
+* [操作系统设计与实现(第三版下册)](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%2B%E7%AC%AC3%E7%89%88%2B%E4%B8%8B.pdf)
+* [xv6-chinese](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/xv6-chinese.pdf)
 
 ## 计算机组成原理
 * 计算机组成与设计（第五版）
