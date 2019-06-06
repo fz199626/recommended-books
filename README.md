@@ -54,11 +54,11 @@
 * 计算机组成与设计（第五版）
 
 ## 编译原理
-* 计算机系统要素
-* 计算机程序的构造和解释(SICP)
-* 计算的本质：深入剖析程序和计算机
-* 编译原理及实践
-* 编译原理
+* [计算机系统要素](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%A6%81%E7%B4%A0%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA.pdf)
+* [计算机程序的构造和解释(SICP)](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/sicp.pdf)
+* [计算的本质：深入剖析程序和计算机](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E7%9A%84%E6%9C%AC%E8%B4%A8%EF%BC%9A%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E7%A8%8B%E5%BA%8F%E5%92%8C%E8%AE%A1%E7%AE%97%E6%9C%BA_%E6%88%AA%E5%8F%96%E7%89%88.pdf)
+* [编译原理及实践](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf)
+* [编译原理](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.pdf)
 * 编译器设计
 
 ## 计算机网络
