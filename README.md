@@ -68,8 +68,8 @@
 
 ## 软件工程
 * 代码大全2
-* 重构
-* 代码整洁之道：程序员的职业素养
+* [重构](https://github.com/woai3c/recommended-books/blob/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E9%87%8D%E6%9E%84_%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1%5B%E9%AB%98%E6%B8%85%E7%89%88%5D.pdf)
+* [代码整洁之道：程序员的职业素养](https://github.com/woai3c/recommended-books/blob/master/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93%EF%BC%9A%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB.pdf)
 
 ## 数据结构与算法
 * 算法导论
