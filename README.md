@@ -62,9 +62,9 @@
 * 编译器设计
 
 ## 计算机网络
-* 图解HTTP
+* [图解HTTP](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%9B%BE%E8%A7%A3HTTP%20.pdf)
 * 计算机网络-自顶向下方法（第六版）
-* TCP/IP 详解（1、2、 3卷）
+* [TCP/IP 详解（1、2、 3卷）](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP-IP%E8%AF%A6%E8%A7%A3(%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89).pdf)
 
 ## 软件工程
 * 代码大全2
