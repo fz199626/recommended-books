@@ -82,10 +82,10 @@
 * [数据结构与算法分析：C语言描述](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%9AC%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0.pdf)
 
 ## 设计模式
-* JavaScript设计模式与开发实践
-* 设计模式：可复用面向对象软件的基础
+* [JavaScript设计模式与开发实践](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)
+* [设计模式：可复用面向对象软件的基础](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%5B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%9A%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80%5D.%E6%9C%BA%E6%A2%B0%E5%B7%A5%E4%B8%9A%E5%87%BA%E7%89%88%E7%A4%BE.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
 * Head First设计模式
-* 大话设计模式
+* [大话设计模式](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 
 ## Linux/Unix
 * UNIX 环境高级编程（第三版）
