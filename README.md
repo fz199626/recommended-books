@@ -77,9 +77,9 @@
 * 计算机程序设计艺术（第一卷）
 * 计算机程序设计艺术（第二卷）
 * 计算机程序设计艺术（第三卷）
-* 编程珠玑（第二版）
-* 算法图解
-* 数据结构与算法分析：C语言描述
+* [编程珠玑（第二版）](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%5B%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%5D.%E9%BB%84%E5%80%A9.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
+* [算法图解](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3-python.pdf)
+* [数据结构与算法分析：C语言描述](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%9AC%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0.pdf)
 
 ## 设计模式
 * JavaScript设计模式与开发实践
