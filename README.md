@@ -103,13 +103,13 @@
 * [UNIX网络编程卷2：进程间通信（第2版）](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B72%EF%BC%9A%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
 ## 数据库
-* MySQL必知必会
-* SQL必知必会（第4版）
-* SQL进阶教程
+* [MySQL必知必会](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A%20%E7%94%B5%E5%AD%90%E7%89%88.pdf)
+* [SQL必知必会（第4版）](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.pdf)
+* [SQL进阶教程](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B.pdf)
 * 数据库系统概念（原书第六版）
-* 数据库系统基础教程(原书第3版)
-* 数据库系统实现(第二版)
-* 数据库索引设计与优化
+* [数据库系统基础教程(原书第3版)](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B(%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88).pdf)
+* [数据库系统实现(第二版)](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf)
+* [数据库索引设计与优化](https://github.com/woai3c/recommended-books/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B4%A2%E5%BC%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BC%98%E5%8C%96.pdf)
 * Oracle Database 9i 10g 11g编程艺术:深入数据库体系结构 第2版
 
 
