@@ -88,19 +88,19 @@
 * [大话设计模式](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 
 ## Linux/Unix
-* UNIX 环境高级编程（第三版）
+* [UNIX 环境高级编程（第三版）](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/UNIX%20%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%402013%20(%E7%AC%AC3%E7%89%88%20%E6%89%AB%E6%8F%8F%E7%89%88).pdf)
 * Linux-UNIX系统编程手册 上
 * Linux-UNIX系统编程手册 下
-* 鸟哥的Linux私房菜基础学习篇第四版v2.0
-* 深入Linux内核架构
-* 深入理解linux内核（中文第三版）
-* UNIX编程艺术
+* [鸟哥的Linux私房菜基础学习篇第四版v2.0](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%E7%AC%AC%E5%9B%9B%E7%89%88v2.0.pdf)
+* [深入Linux内核架构](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/%E6%B7%B1%E5%85%A5Linux%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84.pdf)
+* [深入理解linux内核（中文第三版）](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
+* [UNIX编程艺术](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/UNIX%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF.pdf)
 * Linux多线程服务端编程：使用muduo C++网络库
-* Linux内核设计与实现(第三版)
+* [Linux内核设计与实现(第三版)](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%AD%E6%96%87%E9%AB%98%E6%B8%85%E5%B8%A6%E7%9B%AE%E5%BD%95).pdf)
 * UNIXLinux系统管理技术手册 第4版
-* Unix-Linux编程实践教程
-* UNIX网络编程卷1：套接字联网API（第3版）
-* UNIX网络编程卷2：进程间通信（第2版）
+* [Unix-Linux编程实践教程](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/Unix-Linux%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5%E6%95%99%E7%A8%8B.pdf)
+* [UNIX网络编程卷1：套接字联网API（第3版）](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
+* [UNIX网络编程卷2：进程间通信（第2版）](https://github.com/woai3c/recommended-books/blob/master/LinuxUnix/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B72%EF%BC%9A%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
 ## 数据库
 * MySQL必知必会
