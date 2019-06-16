@@ -118,31 +118,31 @@
 * 深入浅出node.js
 
 #### C
-* C程序设计语言（第二版）
+* [C程序设计语言（第二版）](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%EF%BC%88%E7%AC%AC2%E7%89%88%C2%B7%E6%96%B0%E7%89%88%EF%BC%89%E4%B9%A6%E7%AD%BE%E7%89%88.pdf)
 * C Primer Plus 第六版
 
 #### C++
 * C++ Primer（第五版）
-* Effective:C++中文版第三版
+* [Effective:C++中文版第三版](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Effective%2BC%2B%2B%2B%E4%B8%AD%E6%96%87%E7%89%88%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
 
 #### 汇编
 * 汇编语言（第三版）
-* x86汇编语言:从实模式到保护模式完整版
+* [x86汇编语言:从实模式到保护模式完整版](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/x86%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%20%20%E4%BB%8E%E5%AE%9E%E6%A8%A1%E5%BC%8F%E5%88%B0%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
 
 #### Python
-* python编程:从入门到实践
+* [python编程:从入门到实践](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 * 流畅的python
-* Python编程快速上手:让繁琐工作自动化
+* [Python编程快速上手:让繁琐工作自动化](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python%E7%BC%96%E7%A8%8B%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%20%20%E8%AE%A9%E7%B9%81%E7%90%90%E5%B7%A5%E4%BD%9C%E8%87%AA%E5%8A%A8%E5%8C%96.pdf)
 * Python深度学习
-* Effective+Python:编写高质量Python代码的59个有效方法
+* [Effective+Python:编写高质量Python代码的59个有效方法](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Effective%2BPython.%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FPython%E4%BB%A3%E7%A0%81%E7%9A%8459%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95.Brett%2BSlatkin.pdf)
 
 #### Java
-* Java编程思想（第四版）
+* [Java编程思想（第四版）](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%AC%AC%E5%9B%9B%E7%89%88%E5%AE%8C%E6%95%B4%E4%B8%AD%E6%96%87%E9%AB%98%E6%B8%85%E7%89%88.pdf)
 * 深入理解Java虚拟机：JVM高级特性与最佳实践
-* effective-java中文版
-* JAVA并发编程实践
-* Java并发编程实战
-* Java8实战
+* [effective-java中文版](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/effective-java.pdf)
+* [JAVA并发编程实践](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/JAVA%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf)
+* [Java并发编程实战](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+* [Java8实战](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java8%E5%AE%9E%E6%88%98.pdf)
 
 ## 其他
 * 编码
