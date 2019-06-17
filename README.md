@@ -145,12 +145,12 @@
 * [Java8实战](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java8%E5%AE%9E%E6%88%98.pdf)
 
 ## 其他
-* 编码
-* 黑客与画家
-* 人月神话
-* 七周七语言：理解多种编程范型 
-* 码农翻身
-* 程序员的自我修养-装载、链接与库
+* [编码](https://github.com/woai3c/recommended-books/blob/master/%E5%85%B6%E4%BB%96/%E7%BC%96%E7%A0%81%E2%80%94%E2%80%94%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)
+* [黑客与画家](https://github.com/woai3c/recommended-books/blob/master/%E5%85%B6%E4%BB%96/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
+* [人月神话](https://github.com/woai3c/recommended-books/blob/master/%E5%85%B6%E4%BB%96/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D_40%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88.pdf)
+* [七周七语言：理解多种编程范型 ](https://github.com/woai3c/recommended-books/blob/master/%E5%85%B6%E4%BB%96/%E4%B8%83%E5%91%A8%E4%B8%83%E8%AF%AD%E8%A8%80%EF%BC%9A%E7%90%86%E8%A7%A3%E5%A4%9A%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B%20%E4%B8%AD%E6%96%87%E9%AB%98%E6%B8%85%E7%89%88.pdf)
+* [码农翻身](https://github.com/woai3c/recommended-books/blob/master/%E5%85%B6%E4%BB%96/%E7%A0%81%E5%86%9C%E7%BF%BB%E8%BA%AB%EF%BC%9A%E7%94%A8%E6%95%85%E4%BA%8B%E7%BB%99%E6%8A%80%E6%9C%AF%E5%8A%A0%E7%82%B9%E6%96%99.pdf)
+* [程序员的自我修养-装载、链接与库](https://github.com/woai3c/recommended-books/blob/master/%E5%85%B6%E4%BB%96/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%E2%80%94%E9%93%BE%E6%8E%A5%E3%80%81%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93.pdf)
 
 ## 大学计算机专业学习路线图
 
