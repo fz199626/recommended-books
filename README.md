@@ -49,7 +49,6 @@
 * [操作系统设计与实现(第三版上册)](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%8A%E5%86%8C).pdf)
 * [操作系统设计与实现(第三版下册)](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%2B%E7%AC%AC3%E7%89%88%2B%E4%B8%8B.pdf)
 * [xv6-chinese](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/xv6-chinese.pdf)
-* [x86汇编语言 从实模式到保护模式完整版](https://github.com/woai3c/recommended-books/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/x86%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%20%20%E4%BB%8E%E5%AE%9E%E6%A8%A1%E5%BC%8F%E5%88%B0%E4%BF%9D%E6%8A%A4%E6%A8%A1%E5%BC%8F%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
 
 ## 计算机组成原理
 * 计算机组成与设计（第五版）
