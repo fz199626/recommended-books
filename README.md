@@ -37,6 +37,7 @@
 * [计算机体系结构：量化研究方法（第五版）](https://github.com/woai3c/recommended-books/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%EF%BC%9A%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC%E4%BA%94%E7%89%88%EF%BC%89.pdf)
 
 ## 操作系统
+* 操作系统导论
 * 深入理解计算机系统（第三版）
 * 操作系统精髓与设计原理（第八版）
 * 现代操作系统（第四版）
