@@ -54,6 +54,7 @@
 
 ## 计算机组成原理
 * 计算机组成与设计（第五版）
+* 自己动手写CPU
 
 ## 编译原理
 * [计算机系统要素](https://github.com/woai3c/recommended-books/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%A6%81%E7%B4%A0%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA.pdf)
